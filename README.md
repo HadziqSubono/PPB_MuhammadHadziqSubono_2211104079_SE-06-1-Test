@@ -26,9 +26,9 @@ Sebelum menjalankan proyek, pastikan sistem Anda telah memenuhi persyaratan beri
 
 ## Hasil Praktikum
 Setiap folder di dalam `lib/` berisi tugas-tugas praktikum yang dikerjakan selama mata kuliah. Berikut adalah daftar praktikum yang telah diselesaikan:
-1. **Praktikum Pertemuan 1**: Pengenalan Flutter dan Dart
-2. **Praktikum Pertemuan 2**: 
-3. **Praktikum Pertemuan 3**: 
-4. **Praktikum Pertemuan 4**: 
+1. **Praktikum Pertemuan 1 - Running Modul**: Instalasi Flutter
+2. **Praktikum Pertemuan 2 - **: 
+3. **Praktikum Pertemuan 3 - **: 
+4. **Praktikum Pertemuan 4 - **: 
 
 *(Daftar praktikum ini dapat diubah sesuai dengan praktikum yang sudah dikerjakan)*
